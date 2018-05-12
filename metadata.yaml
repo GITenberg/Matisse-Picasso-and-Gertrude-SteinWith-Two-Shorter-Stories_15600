@@ -1,0 +1,30 @@
+_repo: Matisse-Picasso-and-Gertrude-SteinWith-Two-Shorter-Stories_15600
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stein, Gertrude
+    birthdate: 1874
+    deathdate: 1946
+    gutenberg_agent_id: '6032'
+    url: http://www.gutenberg.org/2009/agents/6032
+    wikipedia: http://en.wikipedia.org/wiki/Gertrude_Stein
+description: A long gay book (1909-1912) -- Many many women (1910) -- G.M.P. (1911-1912).
+gutenberg_issued: '2005-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15600'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Experimental fiction, American'
+tableOfContents: A long gay book -- Many many women -- G.M.P.
+title: 'Matisse Picasso and Gertrude Stein
+
+  With Two Shorter Stories'
+url: http://www.gutenberg.org/ebooks/15600
