@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6032
     wikipedia: http://en.wikipedia.org/wiki/Gertrude_Stein
 description: A long gay book (1909-1912) -- Many many women (1910) -- G.M.P. (1911-1912).
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15600#Matisse-Picasso-and-Gertrude-SteinWith-Two-Shorter-Stories
 gutenberg_issued: '2005-04-11'
 gutenberg_type: Text
 identifiers:
